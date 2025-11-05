@@ -2,7 +2,7 @@
 
 Repositório criado para a disciplina **Projeto de Algoritmos**, com o objetivo de resolver três questões de nível difícil sobre **o algoritmo de deividir e conquistar** da plataforma [LeetCode](https://leetcode.com/).
 
- Link para video Resolução dos exercicios : 
+ Link para video Resolução dos exercicios : https://youtu.be/l7YYYoevrQY
 
 ## 👥 Integrantes
 - Mylena Trindade de Mendonça
